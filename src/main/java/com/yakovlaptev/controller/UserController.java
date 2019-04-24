@@ -14,7 +14,7 @@ import java.util.List;
 @RestController
 //@Transactional
 @RequestMapping(value="/")
-//@Component
+@Component
 public class UserController {
 
     @Autowired

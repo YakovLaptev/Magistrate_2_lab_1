@@ -1,5 +1,5 @@
 *.html
 *.[oa]
 .idea/
-.target/
+target/
 .out/
